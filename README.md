@@ -1,6 +1,10 @@
 Insight
 =======
 
+https://www.upstatement.com/timber/
+https://huboard.com/lesersokerbok/lsb-wpengine
+
+
 What do we want to learn about readers and the digital tools they use with their books?
 
 This repository is shared between our customer Leser Søker Bok (Reader looking for a book) and us, Lilly Labs Consulting. Most of the text will be in Norwegian language - sorry about that. If you want to know what we are up to, check out our blog: http://lillylabs.no/ or the website of Leser Søker Bok http://www.lesersokerbok.no/
